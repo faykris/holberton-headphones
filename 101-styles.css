@@ -366,6 +366,12 @@ html {
     justify-content: space-around;
 }
 
+.wwd-icon {
+  animation-name: scaling;
+  animation-iteration-count: infinite;
+  animation-duration: 2.5s;
+}
+
 .wwd-box:hover .wwd-icon {
   animation-name: moving;
   animation-duration: 2.5s;
@@ -483,7 +489,21 @@ html {
   border-width: 122px 42px 0;
   border-style: solid;
   border-color: var(--color-primary) transparent;
+  transition: all .5s ease-out;
+  animation-name: scaling;
+  animation-iteration-count: infinite;
+  animation-duration: 2.5s;
 }
+
+@keyframes scaling {
+  0%   {transition: all .5s ease-out; transform: scale(1.05)}
+  25%  {transition: all .5s ease-out; transform: scale(1.1)}
+  50%  {transition: all .5s ease-out; transform: scale(1.05)}
+  75%  {transition: all .5s ease-out; transform: scale(1.1)}
+  100% {transition: all .5s ease-out; transform: scale(1.05)}
+}
+
+
 .pentagon:before {
   content: "";
   position: absolute;
