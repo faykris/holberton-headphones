@@ -1,16 +1,16 @@
 ![logo_png](images/logo_headphones.png)
 
-# Holberton Headphones
-This is a example of a web responsive page with the purpose to improve Holberton student skills using HTML an CSS.
+# Holberton Headphones 🎧
+This is an example of a web responsive page with the purpose to improve Holberton students skills using HTML an CSS.
 
-## Objetives
+## Objetives ☑
 
 * Make different tasks that referrer with each section of a page.
 * It should be responsive in different devices, not only a desktop of a computer.
 * Doesn't have to use any CSS framework (like Bootstrap) or javascript code.
 * Design each section like the Intranet and Figma examples.
 
-## Sections
+## Sections 🎬
 Each task is divided in different parts of a web page we need to create and implementing the corresponding styles
 
 ### Header - nav items
@@ -37,12 +37,21 @@ Here the user can fill a little form if it needs to be contacted in a future.
 This last section have the social media related with brand/company for user have more information.
 ![logo_png](images/hh-footer.png)
 
-## Responsive views
+## Responsive views 📱
 Here is a sample of each section of how it would appear in other devices.
 ### Mobile view
 ![logo_png](images/hh-res-mobile.png)
 ### Tablet view
 ![logo_png](images/hh-res-tablet.png)
 
-## Authors
-* Cristian Pinzón
+## Animations ↻↺
+This project has a little demonstration of animations:
+* Nav icon become X symbol when it clicked on
+* "what we do" section icons changes color and rotates 5 degrees to the right and left
+* "Our results" section pentagons changes color and rotates 5 degrees to the right and left
+  ![logo_png](images/hh-nav-menu.png)
+  ![logo_png](images/hh-ani-rows.png)
+
+## Authors ✍
+* Cristian Pinzón - Holberton Student C14, Bogotá Colombia.
+
