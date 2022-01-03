@@ -37,5 +37,12 @@ Here the user can fill a little form if it needs to be contacted in a future.
 This last section have the social media related with brand/company for user have more information.
 ![logo_png](images/hh-footer.png)
 
+## Responsive views
+Here is a sample of each section of how it would appear in other devices.
+### Mobile view
+![logo_png](images/hh-res-mobile.png)
+### Tablet view
+![logo_png](images/hh-res-tablet.png)
+
 ## Authors
 * Cristian Pinzón
