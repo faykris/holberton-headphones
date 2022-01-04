@@ -1,7 +1,7 @@
 ![logo_png](images/logo_headphones.png)
 
 # Holberton Headphones 🎧
-This is an example of a web responsive page with the purpose to improve Holberton students skills using HTML an CSS.
+This is an example of a web responsive page with the purpose to improve Holberton students skills using HTML and CSS.
 
 ## Objetives ☑
 
