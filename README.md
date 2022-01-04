@@ -26,7 +26,7 @@ Here we have an entire description of a product/service to do, offering differen
 ![logo_png](images/hh-what-we-do.png)
 
 ### Our results
-This part is to show testimonials that verify the quality of the product/service to offer
+This part is to show testimonials that verify the quality of the product/service to offer.
 ![logo_png](images/hh-our-results.png)
 
 ### Contact us
@@ -46,9 +46,9 @@ Here is a sample of each section of how it would appear in other devices.
 
 ## Animations ↻↺
 This project has a little demonstration of animations:
-* Nav icon become X symbol when it clicked on
-* "what we do" section icons changes color and rotates 5 degrees to the right and left
-* "Our results" section pentagons changes color and rotates 5 degrees to the right and left
+* Nav icon become X symbol when clicked on it.
+* "what we do" section icons changes color and rotates 5 degrees to the right and left.
+* "Our results" section pentagons changes color and rotates 5 degrees to the right and left.
   ![logo_png](images/hh-nav-menu.png)
   ![logo_png](images/hh-ani-rows.png)
 
