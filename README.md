@@ -46,7 +46,7 @@ Here is a sample of each section of how it would appear in other devices.
 
 ## Animations ↻↺
 This project has a little demonstration of animations:
-* Nav icon become X symbol when clicked on it.
+* Nav icon becomes X symbol when clicked on it.
 * "what we do" section icons changes color and rotates 5 degrees to the right and left.
 * "Our results" section pentagons changes color and rotates 5 degrees to the right and left.
   ![logo_png](images/hh-nav-menu.png)
