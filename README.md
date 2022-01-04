@@ -11,14 +11,14 @@ This is an example of a web responsive page with the purpose to improve Holberto
 * Design each section like the Intranet and Figma examples.
 
 ## Sections 🎬
-Each task is divided in different parts of a web page we need to create and implementing the corresponding styles
+Each task is divided in different parts of a web page we need to create and implementing the corresponding styles.
 
 ### Header - nav items
-This first part contains the logo of the brand/company and the different anchors to access directly each section
+This first part contains the logo of the brand/company and the different anchors to access directly each section.
 ![logo_png](images/hh-header-navbar.png)
 
 ### Hero section
-This is the first view for each user, its have a short description and an action to be covered always related with the main purpose of a web page
+This is the first view for each user, its have a short description and an action to be covered always related with the main purpose of a web page.
 ![logo_png](images/hh-hero-section.png)
 
 ### What we do
